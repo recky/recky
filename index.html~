@@ -50,7 +50,7 @@
             <div class="wow pulse animated " data-wow-delay="300ms" data-wow-iteration="infinite" data-wow-duration="2s" style="visibility: visible; animation-duration: 2s; animation-delay: 300ms; animation-iteration-count: infinite; animation-name: pulse;">
                     <h1>Reky Susanto</h1>
             </div>
-            <div class="span3 wow bounceInLeft animated" style="visibility: visible; animation-name: bounceInLeft;">
+            <div class="span3 wow bounceInLeft animated" style="visibility: visible; animation-name: bounceInRight;">
                 <h2>Space</h2>
             </div>
         </div>
